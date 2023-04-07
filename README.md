@@ -14,3 +14,4 @@ An Adaptive Neuro Fuzzy Inference System (ANFIS) to solve the inverse kinematics
 
 # Dependencies
 - Matlab Fuzzy Toolbox
+- Robotics Toolbox
